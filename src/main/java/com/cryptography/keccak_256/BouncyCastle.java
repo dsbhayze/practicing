@@ -7,7 +7,6 @@ import java.nio.charset.StandardCharsets;
 
 public class BouncyCastle {
 /*
-    Test
     public static void main(String[] args) throws NoSuchAlgorithmException {
         Security.addProvider(new BouncyCastleProvider());
         final MessageDigest digest = MessageDigest.getInstance("Keccak-256");
