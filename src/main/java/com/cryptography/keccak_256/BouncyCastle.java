@@ -25,7 +25,6 @@ public class BouncyCastle {
         }
         return hexString.toString();
     }
-
 */
 
     public static void main(String[] args) {

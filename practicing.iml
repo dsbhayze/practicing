@@ -11,16 +11,18 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.5.0" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot:2.5.0" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-core:5.3.7" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-jcl:5.3.7" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-context:5.3.7" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-aop:5.3.7" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-beans:5.3.7" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-expression:5.3.7" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.2.1.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot:2.2.1.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: com.google.guava:guava:20.0" level="project" />
     <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.11" level="project" />
     <orderEntry type="library" name="Maven: org.bouncycastle:bcprov-jdk15on:1.60" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-crypto:5.1.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-context:5.2.1.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-aop:5.2.1.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-beans:5.2.1.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-core:5.2.1.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-jcl:5.2.1.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-expression:5.2.1.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.projectlombok:lombok:1.18.10" level="project" />
   </component>
 </module>
